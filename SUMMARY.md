@@ -29,7 +29,7 @@
 	* [git命令清单](gitlist.md)
 
 * github运用
-	* github page
+	* [github page](github_page.md)
 	* [ssh配置](ssh.md)
 
 * python环境安装
@@ -47,6 +47,7 @@
 * 学习的python书籍
 	* 《learn python hard way》
 	* 《Think python》
+	* [书籍小结](python_book.md)
 
 * 已接触python模块
 	* time
