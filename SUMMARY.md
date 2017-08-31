@@ -12,6 +12,8 @@
 	* Mission Control
 	* Time Machine
 	* 如何显示隐藏文件夹
+		* 显示：终端输入defaults write com.apple.finder AppleShowAllFiles -boolean true ; killall Finder
+		* 隐藏：输入defaults write com.apple.finder AppleShowAllFiles -boolean false ; killall Finder
 
 * Terminal commend
 	* [基本命令学习](shell.md)
@@ -38,7 +40,7 @@
 
 * 所用python编辑器
 	* TextMate
-	* vim
+	* [vim](vim_set.md)
 
 * python解释器
 	* 原生Cpython
@@ -70,4 +72,6 @@
 * 已用到数据库
 	* mongoDB
 		* pymongo
+		
+* [gitbook运用](learn_gitbook.md)
 

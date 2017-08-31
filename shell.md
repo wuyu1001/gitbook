@@ -19,9 +19,11 @@
 * xargs
 * find参考[阮一峰网志](http://www.ruanyifeng.com/blog/2009/10/5_ways_to_search_for_files_using_the_terminal.html)
 * grep
-* man
+* man用来解释shell文档，如：man cat
 * apropos
 * export
 * sudo
 * tree显示一个文档结构树
+* wc 查看文档 -c显示多少字节 -L显示多少行
 ## [reference](https://learnpythonthehardway.org/book/appendixa.html)
+[《TLCL》](http://billie66.github.io/TLCL/book)
