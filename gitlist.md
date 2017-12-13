@@ -19,7 +19,7 @@ git运用
 信息查看
 
 ---
-* git remote add git@github:uresname/demo.git增加远程仓库 git remote -v查看远程信息
+* git remote add origin git@github.com:uresname/demo.git增加远程仓库 git remote -v查看远程信息
 * git pull取回远程仓库的变化，并与本地分支合并
 * git push [branch]推送当前分支到远程  
  **注意**：首次推送用git push *-u* origin master,如果远程有更新则使用git push *-f* origin master

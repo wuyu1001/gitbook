@@ -37,6 +37,10 @@
 * python环境安装
 	* [virtualenv学习](virtualenv.md)
 	* 通过pip管理包安装所需要的包
+		* pip install进行包的安装
+		* pip freeze > requirements.txt, 打印当前环境下所有已经安装的包到该文档
+		* pip install -r requirments.txt 安装文档里面的所有包
+	* [pipenv](pipenv.md)
 
 * 所用python编辑器
 	* TextMate
@@ -65,13 +69,34 @@
 	* urllib
 	* requests
 	* logging
-
+	* pprint
+	* operator
+* 第三方库
+	* feedparser
+	* nummpy
+	* pandans
+	* mathlibplot
+	
 * 初体验爬虫
 	* scrapy
 
 * 已用到数据库
+	* mysql
+	* postgres
 	* mongoDB
 		* pymongo
 		
 * [gitbook运用](learn_gitbook.md)
+
+* flask框架运用
+	* flask_wtf插件
+	* flask_sockets
+	* flask_bootstrap
+	* flask_login 
+	* flask_SQLAlchemy
+	* flask_migrate
+	* flask_testing
+	
+* [heroku deploy app](HerokuPython.md)
+	
 

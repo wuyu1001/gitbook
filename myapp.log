@@ -1,0 +1,824 @@
+INFO:choice: 0
+INFO:original: [1, 0, 0]
+INFO:final: [1, 0, -1]
+INFO:choice changed: 1
+INFO:choice: 0
+INFO:original: [0, 1, 0]
+INFO:final: [0, -1, 0]
+INFO:choice changed: 2
+INFO:choice: 1
+INFO:original: [0, 0, 1]
+INFO:final: [0, 0, -1]
+INFO:choice changed: 0
+INFO:choice: 0
+INFO:original: [1, 0, 0]
+INFO:final: [1, -1, 0]
+INFO:choice changed: 2
+INFO:choice: 1
+INFO:original: [0, 0, 1]
+INFO:final: [-1, 0, 1]
+INFO:choice changed: 2
+INFO:choice: 0
+INFO:original: [1, 0, 0]
+INFO:final: [1, -1, 0]
+INFO:choice changed: 2
+INFO:choice: 1
+INFO:original: [0, 0, 1]
+INFO:final: [0, 0, -1]
+INFO:choice changed: 0
+INFO:choice: 0
+INFO:original: [0, 0, 1]
+INFO:final: [0, -1, 1]
+INFO:choice changed: 2
+INFO:choice: 0
+INFO:original: [0, 1, 0]
+INFO:final: [0, 1, -1]
+INFO:choice changed: 1
+INFO:choice: 0
+INFO:original: [0, 1, 0]
+INFO:final: [0, 1, -1]
+INFO:choice changed: 1
+INFO:choice: 2
+INFO:original: [1, 0, 0]
+INFO:final: [1, -1, 0]
+INFO:choice changed: 0
+INFO:continue_count: 7
+INFO:choice: 2
+INFO:original: [0, 1, 0]
+INFO:final: [-1, 1, 0]
+INFO:choice changed: 1
+INFO:choice: 0
+INFO:original: [0, 0, 1]
+INFO:final: [0, 0, -1]
+INFO:choice changed: 1
+INFO:choice: 1
+INFO:original: [0, 0, 1]
+INFO:final: [0, 0, -1]
+INFO:choice changed: 0
+INFO:choice: 0
+INFO:original: [0, 0, 1]
+INFO:final: [0, -1, 1]
+INFO:choice changed: 2
+INFO:choice: 1
+INFO:original: [0, 1, 0]
+INFO:final: [-1, 1, 0]
+INFO:choice changed: 2
+INFO:choice: 1
+INFO:original: [0, 0, 1]
+INFO:final: [0, 0, -1]
+INFO:choice changed: 0
+INFO:choice: 2
+INFO:original: [0, 0, 1]
+INFO:final: [-1, 0, 1]
+INFO:choice changed: 1
+INFO:choice: 1
+INFO:original: [1, 0, 0]
+INFO:final: [1, 0, -1]
+INFO:choice changed: 0
+INFO:choice: 1
+INFO:original: [1, 0, 0]
+INFO:final: [-1, 0, 0]
+INFO:choice changed: 2
+INFO:choice: 2
+INFO:original: [0, 1, 0]
+INFO:final: [0, -1, 0]
+INFO:choice changed: 0
+INFO:continue_count: 5
+INFO:choice: 2
+INFO:original: [0, 0, 1]
+INFO:final: [0, -1, 1]
+INFO:choice changed: 0
+INFO:choice: 1
+INFO:original: [1, 0, 0]
+INFO:final: [-1, 0, 0]
+INFO:choice changed: 2
+INFO:choice: 0
+INFO:original: [1, 0, 0]
+INFO:final: [1, 0, -1]
+INFO:choice changed: 1
+INFO:choice: 2
+INFO:original: [1, 0, 0]
+INFO:final: [-1, 0, 0]
+INFO:choice changed: 1
+INFO:choice: 1
+INFO:original: [0, 1, 0]
+INFO:final: [-1, 1, 0]
+INFO:choice changed: 2
+INFO:choice: 1
+INFO:original: [1, 0, 0]
+INFO:final: [1, 0, -1]
+INFO:choice changed: 0
+INFO:choice: 1
+INFO:original: [1, 0, 0]
+INFO:final: [1, 0, -1]
+INFO:choice changed: 0
+INFO:choice: 1
+INFO:original: [0, 1, 0]
+INFO:final: [0, 1, -1]
+INFO:choice changed: 0
+INFO:choice: 2
+INFO:original: [1, 0, 0]
+INFO:final: [1, -1, 0]
+INFO:choice changed: 0
+INFO:choice: 0
+INFO:original: [0, 0, 1]
+INFO:final: [0, 0, -1]
+INFO:choice changed: 1
+INFO:continue_count: 7
+INFO:choice: 2
+INFO:original: [1, 0, 0]
+INFO:final: [-1, 0, 0]
+INFO:choice changed: 1
+INFO:choice: 2
+INFO:original: [0, 0, 1]
+INFO:final: [0, -1, 1]
+INFO:choice changed: 0
+INFO:choice: 1
+INFO:original: [1, 0, 0]
+INFO:final: [-1, 0, 0]
+INFO:choice changed: 2
+INFO:choice: 1
+INFO:original: [0, 1, 0]
+INFO:final: [0, 1, -1]
+INFO:choice changed: 0
+INFO:choice: 2
+INFO:original: [0, 1, 0]
+INFO:final: [-1, 1, 0]
+INFO:choice changed: 1
+INFO:choice: 1
+INFO:original: [0, 0, 1]
+INFO:final: [-1, 0, 1]
+INFO:choice changed: 2
+INFO:choice: 1
+INFO:original: [0, 0, 1]
+INFO:final: [-1, 0, 1]
+INFO:choice changed: 2
+INFO:choice: 2
+INFO:original: [1, 0, 0]
+INFO:final: [1, -1, 0]
+INFO:choice changed: 0
+INFO:choice: 0
+INFO:original: [1, 0, 0]
+INFO:final: [1, -1, 0]
+INFO:choice changed: 2
+INFO:choice: 1
+INFO:original: [1, 0, 0]
+INFO:final: [-1, 0, 0]
+INFO:choice changed: 2
+INFO:continue_count: 7
+INFO:choice: 0
+INFO:original: [0, 1, 0]
+INFO:final: [0, 1, -1]
+INFO:choice changed: 1
+INFO:choice: 1
+INFO:original: [1, 0, 0]
+INFO:final: [-1, 0, 0]
+INFO:choice changed: 2
+INFO:choice: 0
+INFO:original: [0, 0, 1]
+INFO:final: [0, 0, -1]
+INFO:choice changed: 1
+INFO:choice: 2
+INFO:original: [1, 0, 0]
+INFO:final: [-1, 0, 0]
+INFO:choice changed: 1
+INFO:choice: 2
+INFO:original: [0, 0, 1]
+INFO:final: [0, -1, 1]
+INFO:choice changed: 0
+INFO:choice: 1
+INFO:original: [0, 1, 0]
+INFO:final: [0, 1, -1]
+INFO:choice changed: 0
+INFO:choice: 2
+INFO:original: [1, 0, 0]
+INFO:final: [-1, 0, 0]
+INFO:choice changed: 1
+INFO:choice: 0
+INFO:original: [0, 0, 1]
+INFO:final: [0, 0, -1]
+INFO:choice changed: 1
+INFO:choice: 1
+INFO:original: [0, 1, 0]
+INFO:final: [-1, 1, 0]
+INFO:choice changed: 2
+INFO:choice: 1
+INFO:original: [0, 1, 0]
+INFO:final: [0, 1, -1]
+INFO:choice changed: 0
+INFO:continue_count: 5
+INFO:choice: 0
+INFO:original: [0, 1, 0]
+INFO:final: [0, -1, 0]
+INFO:choice changed: 2
+INFO:choice: 0
+INFO:original: [1, 0, 0]
+INFO:final: [1, 0, -1]
+INFO:choice changed: 1
+INFO:choice: 0
+INFO:original: [0, 0, 1]
+INFO:final: [0, 0, -1]
+INFO:choice changed: 1
+INFO:choice: 0
+INFO:original: [1, 0, 0]
+INFO:final: [1, -1, 0]
+INFO:choice changed: 2
+INFO:choice: 0
+INFO:original: [0, 1, 0]
+INFO:final: [0, -1, 0]
+INFO:choice changed: 2
+INFO:choice: 1
+INFO:original: [0, 0, 1]
+INFO:final: [0, 0, -1]
+INFO:choice changed: 0
+INFO:choice: 1
+INFO:original: [0, 1, 0]
+INFO:final: [-1, 1, 0]
+INFO:choice changed: 2
+INFO:choice: 2
+INFO:original: [0, 1, 0]
+INFO:final: [-1, 1, 0]
+INFO:choice changed: 1
+INFO:choice: 1
+INFO:original: [0, 1, 0]
+INFO:final: [0, 1, -1]
+INFO:choice changed: 0
+INFO:choice: 1
+INFO:original: [1, 0, 0]
+INFO:final: [1, 0, -1]
+INFO:choice changed: 0
+INFO:continue_count: 6
+INFO:choice: 1
+INFO:original: [0, 0, 1]
+INFO:final: [-1, 0, 1]
+INFO:choice changed: 2
+INFO:choice: 1
+INFO:original: [0, 0, 1]
+INFO:final: [-1, 0, 1]
+INFO:choice changed: 2
+INFO:choice: 0
+INFO:original: [0, 0, 1]
+INFO:final: [0, -1, 1]
+INFO:choice changed: 2
+INFO:choice: 2
+INFO:original: [0, 0, 1]
+INFO:final: [-1, 0, 1]
+INFO:choice changed: 1
+INFO:choice: 1
+INFO:original: [1, 0, 0]
+INFO:final: [1, 0, -1]
+INFO:choice changed: 0
+INFO:choice: 1
+INFO:original: [0, 1, 0]
+INFO:final: [0, 1, -1]
+INFO:choice changed: 0
+INFO:choice: 0
+INFO:original: [1, 0, 0]
+INFO:final: [1, -1, 0]
+INFO:choice changed: 2
+INFO:choice: 1
+INFO:original: [0, 0, 1]
+INFO:final: [0, 0, -1]
+INFO:choice changed: 0
+INFO:choice: 0
+INFO:original: [0, 0, 1]
+INFO:final: [0, -1, 1]
+INFO:choice changed: 2
+INFO:choice: 2
+INFO:original: [0, 0, 1]
+INFO:final: [0, -1, 1]
+INFO:choice changed: 0
+INFO:continue_count: 9
+INFO:choice: 0
+INFO:original: [1, 0, 0]
+INFO:final: [1, -1, 0]
+INFO:choice changed: 2
+INFO:choice: 2
+INFO:original: [0, 0, 1]
+INFO:final: [0, -1, 1]
+INFO:choice changed: 0
+INFO:choice: 1
+INFO:original: [0, 0, 1]
+INFO:final: [0, 0, -1]
+INFO:choice changed: 0
+INFO:choice: 0
+INFO:original: [0, 1, 0]
+INFO:final: [0, -1, 0]
+INFO:choice changed: 2
+INFO:choice: 1
+INFO:original: [0, 0, 1]
+INFO:final: [0, 0, -1]
+INFO:choice changed: 0
+INFO:choice: 0
+INFO:original: [1, 0, 0]
+INFO:final: [1, 0, -1]
+INFO:choice changed: 1
+INFO:choice: 1
+INFO:original: [1, 0, 0]
+INFO:final: [1, 0, -1]
+INFO:choice changed: 0
+INFO:choice: 0
+INFO:original: [1, 0, 0]
+INFO:final: [1, -1, 0]
+INFO:choice changed: 2
+INFO:choice: 0
+INFO:original: [0, 1, 0]
+INFO:final: [0, -1, 0]
+INFO:choice changed: 2
+INFO:choice: 0
+INFO:original: [0, 0, 1]
+INFO:final: [0, 0, -1]
+INFO:choice changed: 1
+INFO:continue_count: 5
+INFO:choice: 2
+INFO:original: [1, 0, 0]
+INFO:final: [1, -1, 0]
+INFO:choice changed: 0
+INFO:choice: 1
+INFO:original: [1, 0, 0]
+INFO:final: [-1, 0, 0]
+INFO:choice changed: 2
+INFO:choice: 2
+INFO:original: [0, 1, 0]
+INFO:final: [0, -1, 0]
+INFO:choice changed: 0
+INFO:choice: 2
+INFO:original: [0, 0, 1]
+INFO:final: [-1, 0, 1]
+INFO:choice changed: 1
+INFO:choice: 2
+INFO:original: [0, 1, 0]
+INFO:final: [-1, 1, 0]
+INFO:choice changed: 1
+INFO:choice: 0
+INFO:original: [1, 0, 0]
+INFO:final: [1, -1, 0]
+INFO:choice changed: 2
+INFO:choice: 1
+INFO:original: [0, 0, 1]
+INFO:final: [0, 0, -1]
+INFO:choice changed: 0
+INFO:choice: 0
+INFO:original: [1, 0, 0]
+INFO:final: [1, -1, 0]
+INFO:choice changed: 2
+INFO:choice: 2
+INFO:original: [1, 0, 0]
+INFO:final: [1, -1, 0]
+INFO:choice changed: 0
+INFO:choice: 1
+INFO:original: [0, 1, 0]
+INFO:final: [0, 1, -1]
+INFO:choice changed: 0
+INFO:continue_count: 7
+INFO:choice: 0
+INFO:original: [0, 1, 0]
+INFO:final: [0, 1, -1]
+INFO:choice changed: 1
+INFO:choice: 0
+INFO:original: [0, 0, 1]
+INFO:final: [0, -1, 1]
+INFO:choice changed: 2
+INFO:choice: 0
+INFO:original: [1, 0, 0]
+INFO:final: [1, 0, -1]
+INFO:choice changed: 1
+INFO:choice: 2
+INFO:original: [0, 1, 0]
+INFO:final: [-1, 1, 0]
+INFO:choice changed: 1
+INFO:choice: 2
+INFO:original: [0, 0, 1]
+INFO:final: [-1, 0, 1]
+INFO:choice changed: 1
+INFO:choice: 1
+INFO:original: [0, 1, 0]
+INFO:final: [-1, 1, 0]
+INFO:choice changed: 2
+INFO:choice: 2
+INFO:original: [0, 0, 1]
+INFO:final: [-1, 0, 1]
+INFO:choice changed: 1
+INFO:choice: 0
+INFO:original: [1, 0, 0]
+INFO:final: [1, -1, 0]
+INFO:choice changed: 2
+INFO:choice: 2
+INFO:original: [0, 0, 1]
+INFO:final: [0, -1, 1]
+INFO:choice changed: 0
+INFO:choice: 1
+INFO:original: [1, 0, 0]
+INFO:final: [1, 0, -1]
+INFO:choice changed: 0
+INFO:continue_count: 10
+INFO:choice: 1
+INFO:original: [1, 0, 0]
+INFO:final: [1, 0, -1]
+INFO:choice changed: 0
+INFO:choice: 0
+INFO:original: [0, 0, 1]
+INFO:final: [0, 0, -1]
+INFO:choice changed: 1
+INFO:choice: 1
+INFO:original: [1, 0, 0]
+INFO:final: [-1, 0, 0]
+INFO:choice changed: 2
+INFO:choice: 1
+INFO:original: [0, 1, 0]
+INFO:final: [0, 1, -1]
+INFO:choice changed: 0
+INFO:choice: 1
+INFO:original: [1, 0, 0]
+INFO:final: [1, 0, -1]
+INFO:choice changed: 0
+INFO:choice: 2
+INFO:original: [0, 0, 1]
+INFO:final: [-1, 0, 1]
+INFO:choice changed: 1
+INFO:choice: 2
+INFO:original: [0, 0, 1]
+INFO:final: [0, -1, 1]
+INFO:choice changed: 0
+INFO:choice: 0
+INFO:original: [1, 0, 0]
+INFO:final: [1, -1, 0]
+INFO:choice changed: 2
+INFO:choice: 1
+INFO:original: [1, 0, 0]
+INFO:final: [-1, 0, 0]
+INFO:choice changed: 2
+INFO:choice: 0
+INFO:original: [1, 0, 0]
+INFO:final: [1, -1, 0]
+INFO:choice changed: 2
+INFO:continue_count: 7
+INFO:choice: 0
+INFO:original: [1, 0, 0]
+INFO:final: [1, 0, -1]
+INFO:choice changed: 1
+INFO:choice: 1
+INFO:original: [1, 0, 0]
+INFO:final: [1, 0, -1]
+INFO:choice changed: 0
+INFO:choice: 1
+INFO:original: [0, 0, 1]
+INFO:final: [-1, 0, 1]
+INFO:choice changed: 2
+INFO:choice: 0
+INFO:original: [0, 1, 0]
+INFO:final: [0, 1, -1]
+INFO:choice changed: 1
+INFO:choice: 2
+INFO:original: [0, 0, 1]
+INFO:final: [0, -1, 1]
+INFO:choice changed: 0
+INFO:choice: 0
+INFO:original: [0, 1, 0]
+INFO:final: [0, 1, -1]
+INFO:choice changed: 1
+INFO:choice: 0
+INFO:original: [1, 0, 0]
+INFO:final: [1, 0, -1]
+INFO:choice changed: 1
+INFO:choice: 2
+INFO:original: [1, 0, 0]
+INFO:final: [-1, 0, 0]
+INFO:choice changed: 1
+INFO:choice: 1
+INFO:original: [0, 1, 0]
+INFO:final: [-1, 1, 0]
+INFO:choice changed: 2
+INFO:choice: 0
+INFO:original: [1, 0, 0]
+INFO:final: [1, 0, -1]
+INFO:choice changed: 1
+INFO:continue_count: 9
+INFO:choice: 1
+INFO:original: [1, 0, 0]
+INFO:final: [1, 0, -1]
+INFO:choice changed: 0
+INFO:choice: 1
+INFO:original: [0, 0, 1]
+INFO:final: [0, 0, -1]
+INFO:choice changed: 0
+INFO:choice: 1
+INFO:original: [0, 1, 0]
+INFO:final: [-1, 1, 0]
+INFO:choice changed: 2
+INFO:choice: 1
+INFO:original: [1, 0, 0]
+INFO:final: [-1, 0, 0]
+INFO:choice changed: 2
+INFO:choice: 1
+INFO:original: [1, 0, 0]
+INFO:final: [1, 0, -1]
+INFO:choice changed: 0
+INFO:choice: 1
+INFO:original: [0, 0, 1]
+INFO:final: [0, 0, -1]
+INFO:choice changed: 0
+INFO:choice: 2
+INFO:original: [0, 0, 1]
+INFO:final: [0, -1, 1]
+INFO:choice changed: 0
+INFO:choice: 1
+INFO:original: [1, 0, 0]
+INFO:final: [1, 0, -1]
+INFO:choice changed: 0
+INFO:choice: 2
+INFO:original: [1, 0, 0]
+INFO:final: [-1, 0, 0]
+INFO:choice changed: 1
+INFO:choice: 0
+INFO:original: [1, 0, 0]
+INFO:final: [1, 0, -1]
+INFO:choice changed: 1
+INFO:continue_count: 6
+INFO:choice: 0
+INFO:original: [0, 0, 1]
+INFO:final: [0, 0, -1]
+INFO:choice changed: 1
+INFO:choice: 2
+INFO:original: [0, 0, 1]
+INFO:final: [-1, 0, 1]
+INFO:choice changed: 1
+INFO:choice: 0
+INFO:original: [1, 0, 0]
+INFO:final: [1, -1, 0]
+INFO:choice changed: 2
+INFO:choice: 1
+INFO:original: [0, 1, 0]
+INFO:final: [0, 1, -1]
+INFO:choice changed: 0
+INFO:choice: 1
+INFO:original: [0, 0, 1]
+INFO:final: [-1, 0, 1]
+INFO:choice changed: 2
+INFO:choice: 1
+INFO:original: [1, 0, 0]
+INFO:final: [-1, 0, 0]
+INFO:choice changed: 2
+INFO:choice: 0
+INFO:original: [0, 0, 1]
+INFO:final: [0, -1, 1]
+INFO:choice changed: 2
+INFO:choice: 0
+INFO:original: [0, 1, 0]
+INFO:final: [0, 1, -1]
+INFO:choice changed: 1
+INFO:choice: 2
+INFO:original: [1, 0, 0]
+INFO:final: [-1, 0, 0]
+INFO:choice changed: 1
+INFO:choice: 0
+INFO:original: [0, 1, 0]
+INFO:final: [0, -1, 0]
+INFO:choice changed: 2
+INFO:continue_count: 6
+INFO:choice: 1
+INFO:original: [1, 0, 0]
+INFO:final: [-1, 0, 0]
+INFO:choice changed: 2
+INFO:choice: 2
+INFO:original: [0, 0, 1]
+INFO:final: [0, -1, 1]
+INFO:choice changed: 0
+INFO:choice: 1
+INFO:original: [0, 1, 0]
+INFO:final: [0, 1, -1]
+INFO:choice changed: 0
+INFO:choice: 1
+INFO:original: [1, 0, 0]
+INFO:final: [1, 0, -1]
+INFO:choice changed: 0
+INFO:choice: 2
+INFO:original: [0, 1, 0]
+INFO:final: [0, -1, 0]
+INFO:choice changed: 0
+INFO:choice: 1
+INFO:original: [0, 0, 1]
+INFO:final: [0, 0, -1]
+INFO:choice changed: 0
+INFO:choice: 2
+INFO:original: [0, 0, 1]
+INFO:final: [0, -1, 1]
+INFO:choice changed: 0
+INFO:choice: 0
+INFO:original: [0, 0, 1]
+INFO:final: [0, -1, 1]
+INFO:choice changed: 2
+INFO:choice: 1
+INFO:original: [0, 0, 1]
+INFO:final: [-1, 0, 1]
+INFO:choice changed: 2
+INFO:choice: 0
+INFO:original: [0, 1, 0]
+INFO:final: [0, 1, -1]
+INFO:choice changed: 1
+INFO:continue_count: 7
+INFO:choice: 1
+INFO:original: [0, 0, 1]
+INFO:final: [-1, 0, 1]
+INFO:choice changed: 2
+INFO:choice: 2
+INFO:original: [0, 0, 1]
+INFO:final: [-1, 0, 1]
+INFO:choice changed: 1
+INFO:choice: 1
+INFO:original: [0, 0, 1]
+INFO:final: [0, 0, -1]
+INFO:choice changed: 0
+INFO:choice: 0
+INFO:original: [0, 1, 0]
+INFO:final: [0, 1, -1]
+INFO:choice changed: 1
+INFO:choice: 2
+INFO:original: [0, 1, 0]
+INFO:final: [0, -1, 0]
+INFO:choice changed: 0
+INFO:choice: 2
+INFO:original: [1, 0, 0]
+INFO:final: [1, -1, 0]
+INFO:choice changed: 0
+INFO:choice: 0
+INFO:original: [1, 0, 0]
+INFO:final: [1, 0, -1]
+INFO:choice changed: 1
+INFO:choice: 2
+INFO:original: [0, 0, 1]
+INFO:final: [-1, 0, 1]
+INFO:choice changed: 1
+INFO:choice: 0
+INFO:original: [1, 0, 0]
+INFO:final: [1, -1, 0]
+INFO:choice changed: 2
+INFO:choice: 1
+INFO:original: [0, 0, 1]
+INFO:final: [0, 0, -1]
+INFO:choice changed: 0
+INFO:continue_count: 7
+INFO:choice: 1
+INFO:original: [1, 0, 0]
+INFO:final: [1, 0, -1]
+INFO:choice changed: 0
+INFO:choice: 1
+INFO:original: [0, 1, 0]
+INFO:final: [-1, 1, 0]
+INFO:choice changed: 2
+INFO:choice: 2
+INFO:original: [0, 1, 0]
+INFO:final: [0, -1, 0]
+INFO:choice changed: 0
+INFO:choice: 2
+INFO:original: [0, 0, 1]
+INFO:final: [0, -1, 1]
+INFO:choice changed: 0
+INFO:choice: 1
+INFO:original: [1, 0, 0]
+INFO:final: [1, 0, -1]
+INFO:choice changed: 0
+INFO:choice: 1
+INFO:original: [1, 0, 0]
+INFO:final: [1, 0, -1]
+INFO:choice changed: 0
+INFO:choice: 1
+INFO:original: [0, 0, 1]
+INFO:final: [0, 0, -1]
+INFO:choice changed: 0
+INFO:choice: 2
+INFO:original: [0, 1, 0]
+INFO:final: [-1, 1, 0]
+INFO:choice changed: 1
+INFO:choice: 2
+INFO:original: [0, 1, 0]
+INFO:final: [0, -1, 0]
+INFO:choice changed: 0
+INFO:choice: 0
+INFO:original: [1, 0, 0]
+INFO:final: [1, 0, -1]
+INFO:choice changed: 1
+INFO:continue_count: 7
+INFO:choice: 2
+INFO:original: [0, 0, 1]
+INFO:final: [0, -1, 1]
+INFO:choice changed: 0
+INFO:choice: 1
+INFO:original: [0, 0, 1]
+INFO:final: [-1, 0, 1]
+INFO:choice changed: 2
+INFO:choice: 1
+INFO:original: [0, 1, 0]
+INFO:final: [0, 1, -1]
+INFO:choice changed: 0
+INFO:choice: 2
+INFO:original: [1, 0, 0]
+INFO:final: [-1, 0, 0]
+INFO:choice changed: 1
+INFO:choice: 2
+INFO:original: [0, 1, 0]
+INFO:final: [-1, 1, 0]
+INFO:choice changed: 1
+INFO:choice: 1
+INFO:original: [1, 0, 0]
+INFO:final: [-1, 0, 0]
+INFO:choice changed: 2
+INFO:choice: 0
+INFO:original: [1, 0, 0]
+INFO:final: [1, -1, 0]
+INFO:choice changed: 2
+INFO:choice: 1
+INFO:original: [1, 0, 0]
+INFO:final: [1, 0, -1]
+INFO:choice changed: 0
+INFO:choice: 1
+INFO:original: [1, 0, 0]
+INFO:final: [-1, 0, 0]
+INFO:choice changed: 2
+INFO:choice: 2
+INFO:original: [1, 0, 0]
+INFO:final: [1, -1, 0]
+INFO:choice changed: 0
+INFO:continue_count: 7
+INFO:choice: 2
+INFO:original: [0, 1, 0]
+INFO:final: [-1, 1, 0]
+INFO:choice changed: 1
+INFO:choice: 2
+INFO:original: [0, 0, 1]
+INFO:final: [-1, 0, 1]
+INFO:choice changed: 1
+INFO:choice: 1
+INFO:original: [0, 0, 1]
+INFO:final: [-1, 0, 1]
+INFO:choice changed: 2
+INFO:choice: 1
+INFO:original: [0, 1, 0]
+INFO:final: [0, 1, -1]
+INFO:choice changed: 0
+INFO:choice: 0
+INFO:original: [0, 0, 1]
+INFO:final: [0, 0, -1]
+INFO:choice changed: 1
+INFO:choice: 1
+INFO:original: [1, 0, 0]
+INFO:final: [-1, 0, 0]
+INFO:choice changed: 2
+INFO:choice: 1
+INFO:original: [0, 0, 1]
+INFO:final: [0, 0, -1]
+INFO:choice changed: 0
+INFO:choice: 2
+INFO:original: [0, 0, 1]
+INFO:final: [-1, 0, 1]
+INFO:choice changed: 1
+INFO:choice: 1
+INFO:original: [0, 1, 0]
+INFO:final: [-1, 1, 0]
+INFO:choice changed: 2
+INFO:choice: 0
+INFO:original: [0, 1, 0]
+INFO:final: [0, -1, 0]
+INFO:choice changed: 2
+INFO:continue_count: 6
+INFO:choice: 2
+INFO:original: [1, 0, 0]
+INFO:final: [1, -1, 0]
+INFO:choice changed: 0
+INFO:choice: 1
+INFO:original: [0, 1, 0]
+INFO:final: [0, 1, -1]
+INFO:choice changed: 0
+INFO:choice: 1
+INFO:original: [0, 0, 1]
+INFO:final: [0, 0, -1]
+INFO:choice changed: 0
+INFO:choice: 0
+INFO:original: [0, 1, 0]
+INFO:final: [0, 1, -1]
+INFO:choice changed: 1
+INFO:choice: 0
+INFO:original: [1, 0, 0]
+INFO:final: [1, -1, 0]
+INFO:choice changed: 2
+INFO:choice: 1
+INFO:original: [1, 0, 0]
+INFO:final: [-1, 0, 0]
+INFO:choice changed: 2
+INFO:choice: 0
+INFO:original: [1, 0, 0]
+INFO:final: [1, 0, -1]
+INFO:choice changed: 1
+INFO:choice: 1
+INFO:original: [1, 0, 0]
+INFO:final: [1, 0, -1]
+INFO:choice changed: 0
+INFO:choice: 2
+INFO:original: [1, 0, 0]
+INFO:final: [1, -1, 0]
+INFO:choice changed: 0
+INFO:choice: 2
+INFO:original: [0, 1, 0]
+INFO:final: [-1, 1, 0]
+INFO:choice changed: 1
+INFO:continue_count: 8
